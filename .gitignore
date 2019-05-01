@@ -1,0 +1,24 @@
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xcuserstate
+.DS_Store
+
+# MemoriesStore
+MemoriesStore/.DS_Store
+.DS_Store
+MemoriesStore/MemoriesStore.xcworkspace/xcshareddata/
+Pods/*
+Podfile.lock
+MemoriesStore.xcodeproj/xcuserdata/
+MemoriesStore.xcworkspace/xcuserdata/
